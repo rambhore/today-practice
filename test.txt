@@ -1,1 +1,2 @@
  good morning
+ second msg append in test.txt 
