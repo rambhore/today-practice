@@ -1,0 +1,1 @@
+ using git checkout -b type branch name we cloud create new branch n checkout old branch 
